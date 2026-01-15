@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "coins": 276,
+  "unlocked_skins": 1,
+  "equipped_skin": 0,
+  "boss3_defeated_once": false,
+  "language": "fr",
+  "difficulty": "moyen",
+  "controls": "ad",
+  "weapon1": "space",
+  "weapon2": "left",
+  "aim_assist": false
+}
